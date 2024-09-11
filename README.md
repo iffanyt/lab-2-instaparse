@@ -1,3 +1,5 @@
-# ios102-lab5-spring23
+lab 2  tiffany lee z23692462
 
-![instaparse_walkthrough_1_xtra_small](https://user-images.githubusercontent.com/11927517/199710313-700aef85-ba89-427c-aa07-f89f0fdfdbbe.gif)
+created insta parse.  Can sign in and log out.  Can upload pics to the feed.
+
+![Lab2Recording(1)](https://github.com/user-attachments/assets/49c905cc-9e56-4bf6-a532-75d3d6f61f2d)
